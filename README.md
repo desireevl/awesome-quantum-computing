@@ -23,6 +23,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## MOOCS
 
+- [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - A series of lecture notes on the MIT quantum information sciences course.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A conceptual introduction to the fundamental  principles of quantum mechanics.
 
 ## Development Tools
