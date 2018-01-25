@@ -16,6 +16,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Learning
 
+- [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 - [Nielsen and Chuang](http://quantum.wobblybit.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
@@ -29,12 +30,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Discover quantum computers and the quantum internet. Learn the principles and promises behind these developments and how they will impact our future.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A conceptual introduction to the fundamental  principles of quantum mechanics.
 
+
 ## Development Tools
 
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Microsoft Quantum Development Kit](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview) - Microsoft Q# programming language.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - An older, C like language for quantum computers. Only has a simulator and debugger.
 - [QISKit SDK](https://github.com/QISKit/qiskit-sdk-py) - Software development kit for working with OpenQASM and the IBM Q Experience.
+- [pyQuil](https://github.com/rigetticomputing/pyquil) - A Python library for quantum programming using Quil.
 
 ## Blogs
 
@@ -43,3 +46,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Books
 
 - [Quantum Computation and Quantum Information](https://books.google.com/books/about/Quantum_Computation_and_Quantum_Informat.html?id=-s4DEy7o-a0C&redir_esc=y) - A well appreciated comprehensive textbook for those with a bit of prior knowledge in maths, computer science and physics.
+- [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - This textbook teaches quantum computing using an approach that is accessible to undergraduate computer science students.
