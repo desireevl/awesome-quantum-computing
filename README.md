@@ -21,9 +21,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 
-## MOOCS
+## MOOCs
 
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - A series of lecture notes on the MIT quantum information sciences course.
+- [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
+- [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - A foundational course on quantum information and computation.
+- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Discover quantum computers and the quantum internet. Learn the principles and promises behind these developments and how they will impact our future.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A conceptual introduction to the fundamental  principles of quantum mechanics.
 
 ## Development Tools
