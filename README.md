@@ -23,6 +23,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## MOOCS
 
+- [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - A series of lecture notes on the MIT quantum information sciences course.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A conceptual introduction to the fundamental  principles of quantum mechanics.
 - [Quantum Information Science I, Part I](https://courses.edx.org/courses/course-v1:MITx+8.370.1x+1T2018/course/) - This course module will help you establish a foundation of knowledge for understanding what quantum computers can do, how they work, and how you can contribute to discovering new things and solving problems in quantum information science and engineering.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
