@@ -53,3 +53,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Papers
 
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum Machine Learning: What Quantum Computing Means to Data Mining.
+- [Quantum computational supremacy](https://www.nature.com/articles/nature23458) - A paper presenting leading proposals to achieve quantum supremacy, and discuss how we can reliably compare the power of a classical computer to the power of a quantum computer.
