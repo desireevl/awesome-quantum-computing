@@ -53,3 +53,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Papers
 
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum Machine Learning: What Quantum Computing Means to Data Mining.
+- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers
