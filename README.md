@@ -1,3 +1,4 @@
+
 # Awesome Quantum Computing
 
 ## Introduction
@@ -30,6 +31,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - A foundational course on quantum information and computation.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Discover quantum computers and the quantum internet. Learn the principles and promises behind these developments and how they will impact our future.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A conceptual introduction to the fundamental  principles of quantum mechanics.
+- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - An introduction to the key concepts of quantum computing with minimal mathematics.
 
 ## Development Tools
 
