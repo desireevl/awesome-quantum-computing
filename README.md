@@ -1,4 +1,3 @@
-
 # Awesome Quantum Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Introduction
@@ -49,9 +48,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Books
 
-- [Quantum Computation and Quantum Information](https://books.google.com/books/about/Quantum_Computation_and_Quantum_Informat.html?id=-s4DEy7o-a0C&redir_esc=y) - Comprehensive textbook for those with a bit of prior knowledge in maths, computer science and physics.
+- [Quantum Computation and Quantum Information](http://www-reynal.ensea.fr/docs/iq/QC10th.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach that is accessible to undergraduate computer science students.
-- [Quantum Computation and Quantum Information](http://www-reynal.ensea.fr/docs/iq/QC10th.pdf) - Introduction to the main ideas in quantum computation and quantum information.
 
 ## Papers
 
