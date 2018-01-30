@@ -23,6 +23,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Nielsen and Chuang](http://quantum.wobblybit.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
+- [Quirk](http://algassert.com/quirk) - A browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 
 ## MOOCs
 
