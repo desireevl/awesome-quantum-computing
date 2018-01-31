@@ -14,6 +14,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Blogs](#blogs)
 - [Books](#books)
 - [Papers](#papers)
+- [Community](#community)
 
 ## Learning
 
@@ -53,5 +54,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Papers
 
-- [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
 - [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
+- [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
+
+## Community
+
+- [IBM Q Community](https://quantumexperience.ng.bluemix.net/qx/community) - IBM Quantum experience Community Forum.
