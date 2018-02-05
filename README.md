@@ -38,10 +38,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Microsoft Quantum Development Kit](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview) - Microsoft Q# programming language.
+- [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [QISKit SDK](https://github.com/QISKit/qiskit-sdk-py) - Software development kit for working with OpenQASM and the IBM Q Experience.
+- [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
-- [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil.
 
 ## Blogs
 
