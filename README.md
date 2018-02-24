@@ -61,3 +61,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Community
 
 - [IBM Q Community](https://quantumexperience.ng.bluemix.net/qx/community) - IBM Quantum experience Community Forum.
+- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion. 
