@@ -19,6 +19,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Learning
 
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
+- [Grove](http://grove-docs.readthedocs.io/en/latest/) - A showcase of quantum algorithms developed using Forest by Rigetti.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 - [Nielsen and Chuang](http://quantum.wobblybit.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
