@@ -29,7 +29,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
-- [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation.
+- [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation. By MITx, edX.
+- [Quantum Information Science I, Part II](https://www.edx.org/course/quantum-information-science-i-part-2-mitx-8-370-2x) - Explores simple quantum protocols and algorithms. By MITx, edX.
+- [Quantum Information Science I, Part III](https://www.edx.org/course/quantum-information-science-i-part-3) - Foundations of quantum communication, including quantum channels and quantum key distribution. By MITx, edX.
+- [Quantum Information Science II](https://www.edx.org/course/quantum-information-science-ii-mitx-8-371x) - Advanced graduate level course in quantum computation and quantum information. By MITx, edX.
+- [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - A simple conceptual introduction to quantum mechanics and quantum computation. By UC Berkeleyx, edX.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
