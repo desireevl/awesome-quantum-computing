@@ -20,6 +20,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
+- [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](http://quantum.wobblybit.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
@@ -46,6 +47,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Blogs
 
+- [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
 - [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 - [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
@@ -63,4 +65,5 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Community
 
 - [IBM Q Community](https://quantumexperience.ng.bluemix.net/qx/community) - IBM Quantum experience Community Forum.
+- [IBM Q QISKit Community](https://slack.qiskit.com) - Slack Channel for QISKit and Quantum Computing discussions.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion. 
