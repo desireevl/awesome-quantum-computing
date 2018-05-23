@@ -65,5 +65,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Community
 
 - [IBM Q Community](https://quantumexperience.ng.bluemix.net/qx/community) - IBM Quantum experience Community Forum.
-- [IBM Q QISKit Community](https://qiskit.slack.com/) - Slack Channel for QISKit and Quantum Computing discussions.
+- [IBM Q QISKit Community](https://qiskit.slack.com/) - Slack Channel for QISKit and quantum computing discussions.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion. 
+- [Rigetti Community](http://slack.rigetti.com/) - Slack Channel for Rigetti and quantum computing discussions.
