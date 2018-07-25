@@ -24,6 +24,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Nielsen and Chuang](http://quantum.wobblybit.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
+- [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
+- [Quantum in the Cloud] (http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 
@@ -38,8 +40,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Development Tools
 
+- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Microsoft Quantum Development Kit](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview) - Microsoft Q# programming language.
+- [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [QISKit SDK](https://github.com/QISKit/qiskit-sdk-py) - Software development kit for working with OpenQASM and the IBM Q Experience.
