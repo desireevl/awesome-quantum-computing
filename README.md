@@ -25,7 +25,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [QISKit Tutorials](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use QISKit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
-- [Quantum in the Cloud] (http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
+- [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 
