@@ -57,6 +57,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 - [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
+- [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 
 ## Books
 
