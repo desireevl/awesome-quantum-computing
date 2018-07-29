@@ -1,6 +1,6 @@
 # Awesome Quantum Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">
+[<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
 
 A curated list of awesome quantum computing learning and developing resources. The goal is to build a categorised community-driven collection of up to date, high quality resources. 
 
