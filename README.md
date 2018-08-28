@@ -63,6 +63,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Books
 
 - [Quantum Computation and Quantum Information](http://www-reynal.ensea.fr/docs/iq/QC10th.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
+- [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach that is accessible to undergraduate computer science students.
 
 ## Papers
@@ -74,6 +75,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [IBM Q Community](https://quantumexperience.ng.bluemix.net/qx/community) - IBM Quantum experience Community Forum.
 - [IBM Q QISKit Community](https://qiskit.slack.com/) - Slack Channel for QISKit and quantum computing discussions.
+- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information. 
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion. 
 - [Rigetti Community](http://slack.rigetti.com/) - Slack Channel for Rigetti and quantum computing discussions.
