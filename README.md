@@ -51,6 +51,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Qrack](https://vm6502q.readthedocs.io) - High performance GPL-licensed C++ quantum simulator library, documentation, and test code.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
+- [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 
 ## Blogs
 
