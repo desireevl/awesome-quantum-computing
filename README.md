@@ -43,7 +43,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - Online quantum composer to run experiments on real quantum computing hardware.
-- [Microsoft Quantum Development Kit](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview) - Microsoft Q# programming language.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
@@ -63,9 +62,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Books
 
+- [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
+- [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
 - [Quantum Computation and Quantum Information](http://www-reynal.ensea.fr/docs/iq/QC10th.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
 - [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
-- [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach that is accessible to undergraduate computer science students.
+- [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
+- [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
 
 ## Papers
 
