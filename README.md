@@ -9,7 +9,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Contents
 
 - [Learning](#learning)
-- [MOOCS](#moocs)
+- [MOOCs](#moocs)
 - [Development Tools](#development-tools)
 - [Blogs](#blogs)
 - [Books](#books)
@@ -68,7 +68,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
-- [Quantum Computation and Quantum Information](http://www-reynal.ensea.fr/docs/iq/QC10th.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
+- [Quantum Computation and Quantum Information](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
 - [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
