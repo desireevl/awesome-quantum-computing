@@ -2,7 +2,9 @@
 
 [<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
 
-A curated list of awesome quantum computing learning and developing resources. The goal is to build a categorised community-driven collection of up to date, high quality resources. 
+[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superpositon to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
+
+This is a curated list of up-to-date resources on learning about and developing on quantum computers. The goal is to build a categorised community-driven collection of up to date, high quality resources. 
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
