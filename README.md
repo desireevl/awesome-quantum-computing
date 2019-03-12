@@ -53,6 +53,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) - Software development kit for working with OpenQASM and the IBM Q Experience.
+- [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript.
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
