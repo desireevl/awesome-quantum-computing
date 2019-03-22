@@ -19,6 +19,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Videos](#videos)
 - [Community](#community)
 
+For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
+
 ## Learning
 
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
