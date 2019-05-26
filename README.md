@@ -87,6 +87,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 
 ## Papers
 
@@ -112,6 +113,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Rigetti Community](http://slack.rigetti.com/) - Slack Channel for Rigetti and quantum computing discussions.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
+- [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
