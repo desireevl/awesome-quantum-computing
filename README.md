@@ -65,6 +65,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) - Software development kit by IBM for working with OpenQASM and the IBM Q Experience.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
+- [Quantum++](https://https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
