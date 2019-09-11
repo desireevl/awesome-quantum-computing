@@ -103,6 +103,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
+- [Coding With Qiskit Video Series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - a series of short videos on programming quantum computers using Qiskit, with Abraham Asfaw.
 
 ## Community
 
