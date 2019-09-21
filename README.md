@@ -23,8 +23,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Learning
 
-- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering
-  quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
@@ -87,6 +85,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Books
 
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
+- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering
+  quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
 - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
