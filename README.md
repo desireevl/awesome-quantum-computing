@@ -44,6 +44,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## MOOCs
 
+- [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explainations through problems. Curated along with Microsoft and Alphabet X.
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
 - [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
