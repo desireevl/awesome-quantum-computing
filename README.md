@@ -86,6 +86,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 - [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates. 
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
+- [Codeforgeek] (https://codeforgeek.com/quantum-computing/) - Quantum computing explained under 1000 words.
 
 ## Books
 
