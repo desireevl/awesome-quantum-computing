@@ -88,7 +88,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
 
 ## Books
-
+- [Quantum Computing:An Applied Approach] (https://www.springer.com/gp/book/9783030239213)
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering
   quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
