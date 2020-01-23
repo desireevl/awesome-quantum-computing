@@ -127,6 +127,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
+- [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Quantum Programming Chat on matrix, language agnostic, expertise not required
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
