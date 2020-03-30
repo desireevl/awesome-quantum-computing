@@ -63,6 +63,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
+- [PennyLane](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
