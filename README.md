@@ -15,9 +15,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Development Tools](#development-tools)
 - [Blogs](#blogs)
 - [Books](#books)
-- [Papers](#papers)
 - [Videos](#videos)
 - [Community](#community)
+- [Podcasts](#podcasts)
 
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
@@ -63,9 +63,11 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
+- [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
 - [PennyLane](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
+- [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimising and qubit allocation.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
@@ -76,6 +78,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
+- [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 
 ## Blogs
 
@@ -87,8 +90,10 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
+- [Quantum Zeitgeist](https://quantumzeitgeist.com/) - Covers the latest news in quantum computing as well as QC companies and careers. 
 - [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates. 
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
+- [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
 
 ## Books
 
@@ -105,19 +110,17 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
 
-## Papers
-
-- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
-- [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
-
 ## Videos
+
 - [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
+- [Circuit Sessions](https://www.youtube.com/watch?v=Omv-bPvQ3E8&list=PLOFEBzvs-VvrRlVz7wqaqmaMZj_ZK2Afe) - Qiskit series exploring the value and use of quantum circuits through a lecture series by academics and industry researchers.
 - [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 - [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation. 
+- [Quantum Computing Seminar Series](https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2) - Qiskit series discussing recent research.
 
 ## Community
 
@@ -129,13 +132,19 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 - [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - Community for discussion of many quantum computing topics.
-- [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Quantum Programming Chat on matrix, language agnostic, expertise not required
+- [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Quantum Programming Chat on matrix, language agnostic, expertise not required.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
 - [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) - Slack Channel for Rigetti and quantum computing discussions.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
+## Podcasts
+
+- [Meet the meQuanics](https://soundcloud.com/mequanics)  Interviews with key quantum computing figures, aimed at the lay person.
+- [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
+
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.
