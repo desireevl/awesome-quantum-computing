@@ -126,6 +126,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
 - [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information. 
 - [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
+- [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - Community for discussion of many quantum computing topics.
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Quantum Programming Chat on matrix, language agnostic, expertise not required
