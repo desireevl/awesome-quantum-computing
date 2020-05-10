@@ -7,15 +7,15 @@ This is a curated list of up-to-date resources on learning about and developing 
 Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
 ## Contents
--  
+- By Category
   - [Learning](#learning)
-- [MOOCs](#moocs)
-- [Development Tools](#development-tools)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Videos](#videos)
-- [Community](#community)
-- [Podcasts](#podcasts)
+  - [MOOCs](#moocs)
+  - [Development Tools](#development-tools)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Community](#community)
+  - [Podcasts](#podcasts)
 
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
