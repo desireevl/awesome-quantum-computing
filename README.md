@@ -16,9 +16,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
   - [Videos](#videos)
   - [Community](#community)
   - [Podcasts](#podcasts)
+- By Creator
 
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
+## Categorial Arrangement
 ### Learning
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
