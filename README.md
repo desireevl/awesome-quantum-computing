@@ -8,7 +8,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Contents
 -
-- - [Learning](#learning)
+  - [Learning](#learning)
 - [MOOCs](#moocs)
 - [Development Tools](#development-tools)
 - [Blogs](#blogs)
