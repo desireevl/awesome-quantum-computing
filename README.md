@@ -22,11 +22,11 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Categorial Arrangement
 ### Learning
-| Name and Link | Creator       | Description  |
+| Name and Link | Creator | Description  |
 | ------------- |:-------------:| -----:|
 | [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/)| David Kemp | Interactive learning for quantum gate computing |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 2 is      | centered |   $12 |
+| zebra stripes | are neat |    $1 |
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
