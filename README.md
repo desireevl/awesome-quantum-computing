@@ -24,7 +24,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ### Learning
 | Name and Link | Creator       | Description  |
 | ------------- |:-------------:| -----:|
-| [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/| David Kemp | Interactive learning for quantum gate computing |
+| [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/)| David Kemp | Interactive learning for quantum gate computing |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
