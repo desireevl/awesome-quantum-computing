@@ -21,18 +21,16 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
 ## Categorial Arrangement
-### Learning
+### Learning Courses
 | Name and Link | Creator | Description  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 | [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/)| David Kemp | Interactive learning for quantum gate computing |
-| col 2 is      | centered |   $12 |
-| zebra stripes | are neat |    $1 |
+|[CNOT](https://cnot.io/)   | CNOT |   Easy to understand, step by step introduction to quantum computing concepts|
+| - [D-Wave Leap](https://www.dwavesys.com/take-leap) |D- WAVE| Demos and educational resources as well as access to D-Wave's quantum computer. |
 
-- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
-- [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
-- [D-Wave Leap](https://www.dwavesys.com/take-leap) - Demos and educational resources as well as access to D-Wave's quantum computer.
+
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
