@@ -21,43 +21,53 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
 ## Categorial Arrangement
-### Learning Courses
+### Learn in G
 | Name and Link | Creator | Description  |
 | :-------------: |:-------------:| :-----:|
 | [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/)| David Kemp | Interactive learning for quantum gate computing |
 |[CNOT](https://cnot.io/)   | CNOT |   Easy to understand, step by step introduction to quantum computing concepts|
-| - [D-Wave Leap](https://www.dwavesys.com/take-leap) |D- WAVE| Demos and educational resources as well as access to D-Wave's quantum computer. |
+| [D-Wave Leap](https://www.dwavesys.com/take-leap) |D- WAVE| Demos and educational resources as well as access to D-Wave's quantum computer. |
+| [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) | John Preskill | Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219| 
+|[Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/)| Isaac Chuang and Michael Nielsen| Worked examples on quantum algorithm problems|
+|[Quantum computing for the very curious](https://quantum.country/qcvc)|Michael Nielsen and Andy Matuschak | Essay introducing quantum computing |
+|[Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/)|Rigetti | Tutorials for Rigetti Computing's SDK|
+|[Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/)|Xanadu | Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK|
+|[Quirk](http://algassert.com/quirk)| Algorithmic Assertions | Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time|
+|[Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/)| NIST | Comprehensive catalog of quantum algorithms|
+|[Quantum Computing Playground](http://www.quantumplayground.net/#/home)|Google Research|3D quantum state visualisation tool able to simulate up to 22 qubits
+|[The Quantum Quest](https://www.quantum-quest.nl/)| Quantum Quest | Introductory web class on quantum computing principles designed for high school students |
+|[Quantum in the Cloud](http://cnotmz.appspot.com/#)|CNOTMZ|Four qubit photonic quantum simulator and computer|
+|[IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction)|IBM|Short tutorials providing a gentle introduction to quantum computing and IBM Q|
+|[Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI)|Stanford| Hands on Stanford course teaching quantum computing to those without a quantum mechanical background|
+|[Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial)| Qiskit| Jupyter notebooks simply demonstrating how to use Qiskit|
+|[Quantum Katas](https://github.com/Microsoft/QuantumKatas/)|Microsoft|Programming exercises for learning quantum computing and Q#|
+|[Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf)|Dawid Kopczyk|Explanation of quantum machine learning algorithms
 
-- [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
-- [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
 
-- [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
-- [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
-- [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
-- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
-- [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
-- [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
-- [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
-- [Quantum computing for the very curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
-- [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
-- [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
-- [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
-- [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
-- [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
+
+
+
+
 
 ### MOOCs
+|Name and Link| Creator | Description |
+|:-------------:|:-------------:|:-------------:|
+|[Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/)|Brilliant, Microsoft, X Company| Explanations through problems |
+|[MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/)|MIT|Series of lecture notes on the MIT quantum information sciences course|
+|[Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i)|MIT|Foundational course on quantum information and computation
+|[QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)|Kumaresan Ramanathan|Introductory course on quantum cryptography and how to run quantum programs|
+|[Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/)|Vinay Phadnis|Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks|
+|[Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0)|TU Delft and Caltech | Learn how quantum communication provides security that is guaranteed by the laws of nature|
+|[Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning)|University of Toronto|Learn about the benefits quantum technologies can provide to machine learning|
+|[Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)|UC Berkeley|Conceptual introduction to the fundamental  principles of quantum mechanics|
+|[The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms)|Saint Petersburg State Unviersity|A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms
+|[The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x)|TU Delft | Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future|
+|[Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing)|Keio University|Introduction to the key concepts of quantum computing with minimal mathematics|
 
-- [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
-- [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
-- [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
-- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
-- [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
-- [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation.
-- [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - Learn about the benefits quantum technologies can provide to machine learning.
-- [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
-- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms.
-- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
-- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
+
+
+
+
 
 ### Development Tools
 
