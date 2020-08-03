@@ -92,6 +92,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
 - [Musty Thoughts](http://mustythoughts.com) - Personal blog of Michał Stęchły, includes many articles for people starting to learn about quantum computing.
 - [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
+- [Quantumfy](https://quantumnews.io/) - Snippets on the latest quantum computing news.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 - [Quantum Zeitgeist](https://quantumzeitgeist.com/) - Covers the latest news in quantum computing as well as QC companies and careers. 
