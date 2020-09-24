@@ -141,9 +141,12 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - Community for discussion of many quantum computing topics.
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Quantum Programming Chat on matrix, language agnostic, expertise not required.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
+- [QOSF Mentorship Program](https://qosf.org/cohort_1/) - Past projects by people who have completed the QOSF Mentorship Program.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
 - [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) - Slack Channel for Rigetti and quantum computing discussions.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
+
+
 
 ## Podcasts
 
