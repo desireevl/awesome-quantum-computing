@@ -25,7 +25,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
-- [Chris Ferrie](https://csferrie.com/) - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
+- [Chris Ferrie](https://csferrie.medium.com/) - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) - Demos and educational resources as well as access to D-Wave's quantum computer.
