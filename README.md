@@ -24,6 +24,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Learning
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
+- [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) - Online introductory lectures on quantum computing by CERN (European Organization for Nuclear Research).
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [Chris Ferrie](https://csferrie.medium.com/) - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
@@ -43,7 +44,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
-- [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
+- [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
 ## MOOCs
 
