@@ -30,6 +30,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) - Demos and educational resources as well as access to D-Wave's quantum computer.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
+- [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) - Online introductory lectures on quantum computing by CERN (European Organization for Nuclear Research).
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
@@ -43,7 +44,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
-- [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
+- [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
 ## MOOCs
 
