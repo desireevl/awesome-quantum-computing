@@ -108,7 +108,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
 
 ## Books
-
+- [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering
@@ -122,6 +122,11 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
+
+## Popular Science
+- [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
+- [Seth Lloyd. Programming the Universe_ A Quantum Computer Scientist Takes on the Cosmos](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist-ebook/dp/B000GCFBP6) - What if the universe is a giant quantum computer? It takes the reader throuogh a journey of computational model of the universe and its implications on physics.
+- [The Fabric of Reality: The Science of Parallel Universes and Its Implications](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X) - It is of philosophical spirit, about revealing a unified fabric of reality explanation.
 
 ## Videos
 
