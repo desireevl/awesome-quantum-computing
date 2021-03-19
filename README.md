@@ -163,7 +163,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Podcasts
 
-- [Meet the meQuanics](https://soundcloud.com/mequanics)  Interviews with key quantum computing figures, aimed at the lay person.
+- [Meet the meQuanics](https://soundcloud.com/mequanics) - Interviews with key quantum computing figures, aimed at the lay person.
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
 
 ## License
