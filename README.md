@@ -39,9 +39,9 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
 - [Quantum Computing Foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/) - Microsoft Learn learning path covering Azure Quantum and elements of quantum computing.
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 3D quantum state visualisation tool able to simulate up to 22 qubits.
-- [Quantum Computing UK](https://quantumcomputinguk.org/) - Free Qiskit tutorials and code repository
+- [Quantum Computing UK](https://quantumcomputinguk.org/) - Free Qiskit tutorials and code repository.
 - [Quantum Computing for the Very Curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
-- [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - Easy to read knowledge base, rich of basic Quantum Computing concepts
+- [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - Easy to read knowledge base, rich of basic Quantum Computing concepts.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
@@ -84,7 +84,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
 - [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
-- [Quantum Inspire](https://www.quantum-inspire.com/) - Run quantum algorithms on simulators
+- [Quantum Inspire](https://www.quantum-inspire.com/) - Platform to run quantum algorithms on simulators or quantum hardware - by QuTech.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
@@ -116,8 +116,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
-- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering
-  quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
+- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
 - [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) - Hands-on introduction to quantum computing that focuses on concepts and programming examples (in multiple languages).
