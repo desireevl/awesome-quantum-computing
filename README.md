@@ -113,6 +113,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
 - [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware. 
 - [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
+- [xa0](https://blog.xa0.de/list) - New research and deep dives into quantum computing optimization.
 
 ## Books
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
