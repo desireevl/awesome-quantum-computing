@@ -131,6 +131,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535) - Introduction into topics such as qubits, entanglement, and quantum teleportation for the general reader.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
+- [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
 
 ## Popular Science
 - [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
