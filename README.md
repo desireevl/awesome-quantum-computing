@@ -133,7 +133,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
 - [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
-- [Quantum Computing for the Quantum Curious](https://www.springer.com/gp/book/9783030616007) - This open access book simple language, minimal math, and plenty of examples to explain the three key principles behind quantum computers: superposition, quantum measurement, and entanglement.
 -  [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
 
 ## Popular Science
