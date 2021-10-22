@@ -53,6 +53,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## MOOCs
 
 - [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
+- [Introduction to Quantum Information Science](https://www.arturekert.org/iqis) - “Introduction to Quantum Information” by Professor Artur Ekert at the University of Oxford.
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - Series of lecture notes on the MIT quantum information sciences course.
 - [Programming a Quantum Computer with Qiskit](https://www.coursera.org/projects/programming-quantum-computer-qiskit) - 2-hour guided course focusing on learning how to code for a Quantum Computer leveraging Qiskit.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
@@ -132,6 +133,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - Explains quantum computing through the lens of its practical implementation.
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
 - [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
+-  [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
 
 ## Popular Science
 - [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
