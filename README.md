@@ -122,6 +122,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
+- [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf) - Introductory quantum computing textbook. The only prerequisite is trigonometry, and it teaches the math along the way.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
@@ -134,7 +135,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535) - Introduction into topics such as qubits, entanglement, and quantum teleportation for the general reader.
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
 - [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
--  [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
+- [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
+
 
 ## Popular Science
 - [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
