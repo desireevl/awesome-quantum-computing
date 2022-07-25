@@ -178,6 +178,10 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
 - [The Qubit Guy's Podcast](https://www.classiq.io/insights#podcasts) - Podcast by Yuval Boger from [Classiq Technologies](https://www.classiq.io) featuring thought leaders from the quantum computing industry.
 
+## Content in other languages
+
+- [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
