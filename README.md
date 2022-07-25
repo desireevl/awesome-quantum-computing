@@ -74,6 +74,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
 - [Blueqat](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+- [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
