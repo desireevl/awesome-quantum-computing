@@ -125,6 +125,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Books
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
+- [Building Quantum Software: A developer’s guide](https://www.manning.com/books/building-quantum-software) - A developer-centric look at quantum computing.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 - [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/) - Introductory quantum computing textbook. The only prerequisite is trigonometry, and it teaches the math along the way.
