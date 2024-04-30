@@ -36,6 +36,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+- [Qubes Course](https://qbook.qbraid.com/) - Free beginner quantum computing course with mix of interactive widgets, code examples, quiz questions, and video lectures, developed by qBraid.
 - [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Algorithms](https://quantumalgorithms.org/) - Open-source set of lectures notes on quantum algorithms, with a focus on machine learning and data analysis.
@@ -88,6 +89,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
 - [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimising and qubit allocation.
+- [qBraid Lab](https://docs.qbraid.com/en/latest/lab/overview.html) - Web-based JupyterLab deployment providing quantum-specific developer tools and hosted CPU, GPU, QPU access.
+- [qBraid SDK](https://github.com/qBraid/qBraid) - Python toolkit for cross-framework abstraction, transpilation, and execution of quantum programs.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
