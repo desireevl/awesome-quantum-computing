@@ -102,6 +102,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+- [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - An open source platform for acceleraed hybrid quantum - classical applications, programming GPUs, CPUs and QPUs.
 
 ## Blogs
 
@@ -121,6 +122,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware. 
 - [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
 - [xa0](https://blog.xa0.de/list) - New research and deep dives into quantum computing optimization.
+- [NVIDIA Quantum Computing Resource Center](https://resources.nvidia.com/l/en-us-quantum-computing-resource-center) - Blogs and news about quantum computing at NVIDIA.
 
 ## Books
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
