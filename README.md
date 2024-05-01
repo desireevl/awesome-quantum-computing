@@ -77,6 +77,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+- [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - An open source platform for acceleraed hybrid quantum - classical applications, programming GPUs, CPUs and QPUs.
 - [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
@@ -102,7 +103,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
-- [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - An open source platform for acceleraed hybrid quantum - classical applications, programming GPUs, CPUs and QPUs.
 
 ## Blogs
 
@@ -112,6 +112,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
 - [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
 - [Musty Thoughts](http://mustythoughts.com) - Personal blog of Michał Stęchły, includes many articles for people starting to learn about quantum computing.
+- [NVIDIA Quantum Computing Resource Center](https://resources.nvidia.com/l/en-us-quantum-computing-resource-center) - Blogs and news about quantum computing at NVIDIA.
 - [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
 - [Quantumfy](https://quantumfyed.com/) - Snippets on the latest quantum computing news and quantum infographics.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
@@ -122,7 +123,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware. 
 - [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
 - [xa0](https://blog.xa0.de/list) - New research and deep dives into quantum computing optimization.
-- [NVIDIA Quantum Computing Resource Center](https://resources.nvidia.com/l/en-us-quantum-computing-resource-center) - Blogs and news about quantum computing at NVIDIA.
+
 
 ## Books
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
