@@ -96,6 +96,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Inspire](https://www.quantum-inspire.com/) - Platform to run quantum algorithms on simulators or quantum hardware - by QuTech.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
+- [Quplexity](https://github.com/MrGilli/Quplexity/) - A blazingly fast modular lib/tool written in both ARM and x86 Assembly that provides the logic needed by QC simulators.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
