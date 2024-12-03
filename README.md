@@ -31,7 +31,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) - Demos and educational resources as well as access to D-Wave's quantum computer.
-- [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 - [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) - Online introductory lectures on quantum computing by CERN (European Organization for Nuclear Research).
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
@@ -64,9 +63,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - Learn about the benefits quantum technologies can provide to machine learning.
-- [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
-- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms.
-    - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - Same professor of the previous course, this time more focused on quantum concepts rather than math.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
 
