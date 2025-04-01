@@ -92,13 +92,14 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
-- [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+- [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++17 quantum computing library.
 - [Quantum Inspire](https://www.quantum-inspire.com/) - Platform to run quantum algorithms on simulators or quantum hardware - by QuTech.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
+- [staq](https://github.com/softwareqinc/staq) - Quantum compiler, optimizer and resource estimator.
 - [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
