@@ -26,6 +26,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 - [Black Opal](https://q-ctrl.com/black-opal) - An interactive platform for learning the fundamentals of quantum computing.
+- [Classiq Library](https://github.com/Classiq/classiq-library) - The largest collection of up-to-date quantum algorithms, applications, and tutorials.
+- [Classiq Tutorial](https://docs.classiq.io/latest/classiq_101/classiq_tutorial/) - Quick start with a high-level functional design approach.
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [Chris Ferrie](https://csferrie.medium.com/) - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
@@ -76,6 +78,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Blueqat](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 - [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+- [Classiq](https://platform.classiq.io/) - End-to-end quantum platform for high-level HW agnostic quantum modeling, optimization, visualization, and execution.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 - [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
@@ -163,6 +166,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Community
 
+- [Classiq Slack Community](https://short.classiq.io/join-slack) - The high-level quantum modeling community, where 7K+ users engage, disscus and implement quantum algorithems.
 - [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum. 
 - [IBM Q Community](https://community.qiskit.org/) - IBM Q Community page with list of upcoming events and latest programs.
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
