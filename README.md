@@ -8,6 +8,7 @@ This is a curated list of up-to-date resources on learning about and developing 
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for quantum computing workflow orchestration, automated research management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Learning](#learning)
