@@ -72,6 +72,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Development Tools
 
+- [asqav](https://github.com/jagmarques/asqav-sdk) - AI agent governance SDK using ML-DSA-65 (post-quantum digital signatures) for tamper-proof audit trails and policy enforcement.
 - [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
 - [Blueqat](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 - [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
