@@ -25,6 +25,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Learning
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
+- [An Intro to Quantum Computing](https://quantcourse.org) - Easy math but an extensive course covering the latest (2026) quantum computing technology and discoveries.
 - [Black Opal](https://q-ctrl.com/black-opal) - An interactive platform for learning the fundamentals of quantum computing.
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [Chris Ferrie](https://csferrie.medium.com/) - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
