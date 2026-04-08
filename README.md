@@ -79,6 +79,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 - [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
+- [js-quantum](https://jsr.io/@hviana/js-quantum) - js-quantum is a complete TypeScript quantum computing SDK with real state-vector simulation, OpenQASM 3.1 transpilation, and IBM Quantum/qBraid adapters—all without native dependencies or WebAssembly.
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
