@@ -68,6 +68,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms.
     - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - Same professor of the previous course, this time more focused on quantum concepts rather than math.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/quantum-computing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
 
 ## Development Tools
