@@ -73,6 +73,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Development Tools
 
 - [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
+- [Bee by HEOSSI](https://bee.heossi.com/quantum) - Production AI platform integrating governed real-quantum-hardware execution (OpenQuantum) with post-quantum cryptography; ships a local statevector simulator for development.
 - [Blueqat](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 - [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
