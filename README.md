@@ -19,6 +19,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Community](#community)
 - [Podcasts](#podcasts)
 - [Content in Non-English Languages](#content-in-non-english-languages)
+- [Post-quantum cryptography](#post-quantum-cryptography)
 
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
@@ -186,6 +187,11 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Content in Non-English Languages
 
 - [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+
+## Post-quantum cryptography
+
+- [QNSI ML-KEM ACVP Reproducibility Study](https://arxiv.org/abs/2608.13784) - Frozen reproducibility protocol evaluating noble-post-quantum, liboqs, and Go against pinned public NIST ML-KEM ACVP vectors; MIT two-command artifact.
+- [QNSI ML-KEM ACVP Artifact](https://doi.org/10.5281/zenodo.21910571) - Reproducible artifact with pinned sources and SHA-256 digests.
 
 ## License
 
