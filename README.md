@@ -171,6 +171,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 - [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - Community for discussion of many quantum computing topics.
+- [Quantum Industry Events](https://semiconductorcalendar.com/topics/quantum-hardware/) - Free public tracker of upcoming quantum-hardware conferences, workshops, webinars, and training events, with links to official organizer pages.
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Quantum Programming Chat on matrix, language agnostic, expertise not required.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
