@@ -78,6 +78,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 - [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
+- [FSharp.Azure.Quantum](https://github.com/Thorium/FSharp.Azure.Quantum) - Library for .NET Azure Quantum computing
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
