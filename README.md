@@ -186,6 +186,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Content in Non-English Languages
 
 - [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+- [Quantum Computing in Turkish](https://hakanerdogan.com) - Free courses with an in-browser circuit simulator, final exams and tested example packages in Turkish, also available in English.
 
 ## License
 
