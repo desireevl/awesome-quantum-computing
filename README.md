@@ -82,12 +82,12 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
-- [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
+- [Quantum computing for drug discovery (Calder Brief)](https://calder-brief.pages.dev/inmune-bio-qci-dirac-3s-quantum-drug-discovery) - Current quantum-industry coverage: Inmune Bio applying QCi's Dirac-3 quantum computer to drug discovery (replaces the retired Orquestra entry — Zapata Computing ceased operations in Oct 2024).
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
 - [PennyLane](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 - [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-- [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimising and qubit allocation.
+- [pytket](https://docs.quantinuum.com/) - Python module for interfacing with Quantinuum's t|ket>; a tool for circuit optimising and qubit allocation. (Docs moved here after Cambridge Quantum Computing became Quantinuum; the old cqcl.github.io site is gone.)
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
