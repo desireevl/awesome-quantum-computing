@@ -36,6 +36,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+- [QisLearn](https://qislearn.nepcodex.com) - Interactive browser-based Qiskit course with lessons, a code editor, circuit checking and live visualizations.
 - [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Algorithms](https://quantumalgorithms.org/) - Open-source set of lectures notes on quantum algorithms, with a focus on machine learning and data analysis.
