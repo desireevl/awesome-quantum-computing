@@ -101,7 +101,9 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
-- [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+- [- [ZEPHIRUM (ZYQL)](https://github.com/SerenaSolutions/zephirum-lang) - Trivalent quantum programming language with cryptographic receipts: REFUSED is a first-class verdict for barren plateaus, decoherence and correlated noise, and every run emits a SHA3-256 sealed receipt. Pure-Python kernel with QML kernels, ZNE and MPS tensor-network backends.
+Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+- [ZEPHIRUM](https://github.com/SerenaSolutions/zephirum-lang) - Quantum programming language with a trivalent decision core (1/0/REFUSED), sealed SHA3-256 receipts, and an OpenQASM 3 transpiler, verified on IBM Quantum hardware with citable job IDs.
 
 ## Blogs
 
