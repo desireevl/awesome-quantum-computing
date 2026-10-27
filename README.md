@@ -52,6 +52,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 - [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit) - Very accessible computation/programming oriented tutorials. It begins from basics of matrices up to grover's algorithm. There are also accompanying videos which explain the tutorials.
+- [Sandbox Physics: Quantum State & Born Measurement](https://sandboxphysics.com/labs/qubit-state/) - Interactive exploration of a single qubit, Bloch-sphere states, measurement probabilities, and basis changes.
 - [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
 ## MOOCs
